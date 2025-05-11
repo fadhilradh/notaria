@@ -1,1 +1,20 @@
-{"version":"5","dialect":"pg","entries":[]}
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1746920906723,
+      "tag": "0000_thin_lorna_dane",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1746921331455,
+      "tag": "0001_gigantic_bloodscream",
+      "breakpoints": true
+    }
+  ]
+}
